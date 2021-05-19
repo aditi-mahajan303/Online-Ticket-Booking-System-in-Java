@@ -16,7 +16,7 @@ public class JavaApplication37 {
     int Seat;
     
 
-      System.out.print("Welcome to Crazy Cinema!\nWhat is your name?\n");
+      System.out.print("Welcome to Nitara Booking!\nWhat is your name?\n");
       CustomerName = input.nextLine();
       
       System.out.println("Welcome "+CustomerName);
@@ -31,7 +31,7 @@ public class JavaApplication37 {
       }
       System.out.println();
 
-      System.out.print("      CINEMA 1 SEATING PLAN");
+      System.out.print("       SEATING PLAN");
       System.out.println();
 
       for (int j = 1; j <= 34; j++)
